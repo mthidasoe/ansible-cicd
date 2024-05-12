@@ -1,0 +1,6 @@
+# .dockerignore
+
+# Ignore GitHub workflow files
+.github/workflows/
+/devops
+/node_modules
